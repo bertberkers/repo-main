@@ -1,0 +1,11 @@
+Label,Value
+Average,1.46
+Standard deviation,0.21
+Minimum value,1.07
+Maximum value,1.91
+#1 most circuitous node,"Amsterdam, Gaasperplas, value: 1.91"
+#2 most circuitous node,"Amsterdam, Waterlooplein, value: 1.78"
+#3 most circuitous node,"Amsterdam, Isolatorweg, value: 1.75"
+#1 least circuitous node,"Amsterdam, Henk Sneevlietweg, value: 1.07"
+#2 least circuitous node,"Amsterdam, Amstelveenseweg, value: 1.08"
+#3 least circuitous node,"Amsterdam, Station Zuid, value: 1.11"
